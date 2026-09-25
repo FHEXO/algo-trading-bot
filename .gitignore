@@ -1,0 +1,13 @@
+# Entorno virtual local
+venv/
+
+# Archivo de secretos y llaves de API
+.env
+
+# Archivos temporales generados por Python
+__pycache__/
+*.pyc
+
+# Registros de ejecución y datos descargados
+logs/*.log
+data/*
